@@ -1,0 +1,3 @@
+!! Makes URxvt (and ranger) containers transparent
+URxvt.transparent: true
+URxvt.shading: 10
