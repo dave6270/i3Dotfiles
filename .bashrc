@@ -90,6 +90,11 @@ fi
 
 unset use_color safe_term match_lhs sh
 
+# Read aliases from .bash_aliases file also
+if [ -e $HOME/.bash_aliases ]; then
+    source $HOME/.bash_aliases
+fi
+
 alias cp="cp -i"                          # confirm before overwriting something
 alias df='df -h'                          # human-readable sizes
 alias free='free -m'                      # show sizes in MB
