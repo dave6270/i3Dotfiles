@@ -19,3 +19,4 @@ alias rcconf="nano ~/.config/ranger/rc.conf"		# Opens ranger config for editing
 alias rifleconf="nano ~/.config/ranger/rifle.conf"	# Opens ranger default file defaults for editing
 alias i3conf="nano ~/.i3/config"			# Opens the i3 config file for editing
 alias xres="nano ~/.Xresources"				# Opens the .Xresources file for editing
+alias polyconf="nano ~/.config/polybar/config"		# Opens the polybar config for editing
