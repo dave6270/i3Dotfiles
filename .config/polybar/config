@@ -149,6 +149,7 @@ label-mode-padding = 2
 label-mode-foreground = #000
 label-mode-background = ${colors.primary}
 
+# Use icons for workspace identifaction insead of numbers
 ws-icon-0 = 1;
 ws-icon-1 = 2;
 ws-icon-2 = 3;
