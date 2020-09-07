@@ -198,6 +198,7 @@ assign [class="Atril"] $ws3
 assign [class="Thunderbird"] $ws5
 assign [class="Geeqie"] $ws6
 assign [class="Gimp"] $ws6
+assign [class="vlc"] $ws7
 
 # Open specific applications in floating mode
 for_window [title="alsamixer"] floating enable border pixel 1
