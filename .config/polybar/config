@@ -62,7 +62,7 @@ font-7 = InconsolataLGC Nerd Font:style=Medium
  
 modules-left = i3
 modules-center = xwindow player-moc
-modules-right = filesystem alsa memory cpu date powermenu
+modules-right = filesystem memory cpu date powermenu
 
 separator = |
 
