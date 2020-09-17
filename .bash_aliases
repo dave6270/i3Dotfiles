@@ -1,6 +1,7 @@
 # New file for bash aliases
 # Some aliases previously in .bashrc are now here for completeness
 
+alias ls='ls -la --color=auto'		# Use long for format and show hidden files by default
 alias cp="cp -i"                        # Confirm before copying something
 alias mv="mv -i"			# Similarly with moving files
 alias df='df -h'                        # Human-readable sizes
