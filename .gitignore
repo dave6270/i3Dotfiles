@@ -1,0 +1,4 @@
+# Ignore the Oh My Zsh downloaded folder
+# This folder cannot be pushed and should be ignored
+
+.oh-my-zsh/
