@@ -100,3 +100,6 @@ export LANG=en_GB.UTF-8
 
 # Read bash alias file in zsh
 source ~/.bash_aliases
+
+#Add neofetch
+neofetch
