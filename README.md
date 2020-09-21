@@ -5,7 +5,9 @@ For polybar, I found EF - Tech Made Simple's video [here](https://www.youtube.co
 
 For the moc player script and module I used a version from the [polybar-scripts](https://github.com/polybar/polybar-scripts) repository. I used an older version as it has more functionality.
 
-As you can see there isn't much here the moment, but beginners can use it as a basis for a more complex setup and hopefully there will be more to come. I think zsh scripts and config will be next up in the next few days.
+As you can see there isn't much here the moment, but beginners can use it as a basis for a more complex setup and hopefully there will be more to come.
+
+Zsh and powerlevel10k scripts have now been added.
 
 As always feel free to take what you need.
 
