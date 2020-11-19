@@ -1,7 +1,3 @@
-" This minimal starting Vim configuration file was based on a similar config
-" file on vim.fandom.com, but I've slimmed down much of the comments and I've
-" tweaked some of the defaults to suit my own needs.
- 
 
 " Set no compatible mode on to retain improved features.
 set nocompatible
@@ -54,7 +50,9 @@ set laststatus=2
 set confirm
 
 " Use visual bell instead of beeping if something goes wrong.
-set visualbell
+" set visualbell
+" Note to self - I've commented out the visual bell as I don't like the
+" flashing. Will see how this goes.
 
 " Reset the terminal code for the visual bell.
 " Note to self - I've commented this out for the moment as setting this command
