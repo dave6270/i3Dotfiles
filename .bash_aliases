@@ -29,3 +29,6 @@ alias polyconf="vim ~/.config/polybar/config"			# Opens the polybar config for e
 
 # Add alias for VASSAL board game module - you probably don't need this and can just delete it, but keeping it will do no harm
 alias asl=VASSAL.sh
+
+# Alias for flatpak version of okular
+alias okular="flatpak run org.kde.okular"
