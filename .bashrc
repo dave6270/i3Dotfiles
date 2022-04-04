@@ -90,9 +90,9 @@ fi
 
 unset use_color safe_term match_lhs sh
 
-# Read aliases from .bash_aliases file also
-if [ -e $HOME/.bash_aliases ]; then
-    source $HOME/.bash_aliases
+# Use .bash_aliases file if it is available
+if [ -f ~/.bash_aliases ]; then
+		source ~/.bash_aliases
 fi
 
 alias cp="cp -i"                          # confirm before overwriting something
@@ -143,5 +143,4 @@ ex ()
   fi
 }
 
-# Run neofetch at bash start
-neofetch
+export PATH=~/VASSAL-3.6.6:$PATH
