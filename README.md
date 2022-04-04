@@ -11,4 +11,4 @@ As always feel free to take what you need.
 
 DG 04-04-2022
 
-![screenshot](https://imgur.com/gallery/AU7BqAB)
+![screenshot](https://i.imgur.com/JnQY7Tu.png)
