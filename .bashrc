@@ -144,3 +144,4 @@ ex ()
 }
 
 export PATH=~/VASSAL-3.6.6:$PATH
+export PATH=~/Applications:$PATH
