@@ -8,6 +8,7 @@ alias df='df -h'										# Human-readable sizes
 alias free='free -m'									# Show sizes in MB
 alias np='vim -w PKGBUILD'
 alias more=less											# Shows part of large file. Show 'more' makes better sense than less
+alias vim='nvim'										# Use neovim instead of vim
 
 # Add default aliases from .bashrc
 alias grep='grep --colour=auto'
