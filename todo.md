@@ -1,5 +1,3 @@
-change shell to zsh
-install powerlevel10k
 install polybar
     polybar polybar-icons
 install rofi - use inpace to dmenu
