@@ -6,4 +6,5 @@ Windows default fonts via yay
 blue light filter
 change from alsa to pulseaudio
 pavucontrol
+wine
 finally - update config files on github as necessary
