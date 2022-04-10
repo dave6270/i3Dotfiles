@@ -34,7 +34,8 @@ bindsym $mod+Return exec kitty
 bindsym $mod+Shift+q kill
 
 # start program launcher
-bindsym $mod+d exec --no-startup-id dmenu_recency
+# change from dmenu to rofi
+bindsym $mod+d exec rofi -show run
 
 # launch categorized menu
 bindsym $mod+z exec --no-startup-id morc_menu
@@ -297,6 +298,7 @@ exec --no-startup-id kitty
 exec --no-startup-id firefox
 exec --no-startup-id thunderbird
 exec --no-startup-id dolphin
+exec --exec --no-startup-id 'Applications/./Nextcloud-3.4.4-x86_64.AppImage'
 
 # Color palette used for the terminal ( ~/.Xresources file )
 # Colors are gathered based on the documentation:
