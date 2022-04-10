@@ -1,6 +1,5 @@
 install polybar
     polybar polybar-icons
-printer (gutenprint) and sane for scanner
 change from alsa to pulseaudio
 pavucontrol
 wine
