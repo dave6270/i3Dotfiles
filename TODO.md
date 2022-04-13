@@ -1,3 +1,3 @@
-install polybar
-    polybar polybar-icons
-finally - update config files on github as necessary
+Add a little polish later as required.
+
+Find out about leading zeroes in polybar cpu module.
