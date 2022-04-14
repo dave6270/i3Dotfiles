@@ -229,7 +229,7 @@ interval = 2
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground}
 format-underline = #FFF200
-label = %mb_free%
+label = %gb_free%
 
 [module/wlan]
 type = internal/network
