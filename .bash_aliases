@@ -28,9 +28,6 @@ alias i3conf="vim ~/.i3/config"							# Opens the i3 config file for editing
 alias xres="vim ~/.Xresources"							# Opens the .Xresources file for editing
 alias polyconf="vim ~/.config/polybar/config"			# Opens the polybar config for editing
 
-# Add alias for VASSAL board game module - you probably don't need this and can just delete it, but keeping it will do no harm
-alias asl=VASSAL.sh
-
 # Alias for flatpak version of okular
 alias okular="flatpak run org.kde.okular"
 
