@@ -287,6 +287,7 @@ label = %date% %time%
 
 [module/pulseaudio]
 type = internal/pulseaudio
+interbal = 5
 
 format-volume = <label-volume> <bar-volume>
 label-volume =  %percentage%%
@@ -311,6 +312,10 @@ bar-volume-fill-font = 2
 bar-volume-empty = ─
 bar-volume-empty-font = 2
 bar-volume-empty-foreground = ${colors.foreground-alt}
+
+; Right and Middle click
+click-right = pavucontrol
+; click-middle = 
 
 [module/alsa]
 type = internal/alsa
