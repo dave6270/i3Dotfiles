@@ -191,9 +191,9 @@ bindsym $mod+Shift+8 move container to workspace $ws8; workspace $ws8
 assign [class="firefox"] $ws2
 assign [class="Thunderbird"] $ws3
 assign [class="dolphin"] $ws4
+assign [class="okular"] $ws5
 assign [class="vlc"] $ws6
 assign [class="strawberry"] $ws7
-assign [class="VASSAL-launch-ModuleManager"] $ws8
 
 # Open specific applications in floating mode
 for_window [title="alsamixer"] floating enable border pixel 1
