@@ -202,6 +202,7 @@ assign [class="dolphin"] $ws4
 assign [class="okular"] $ws5
 assign [class="vlc"] $ws6
 assign [class="strawberry"] $ws7
+assign [class="Gimp"] $ws8
 
 # Open specific applications in floating mode
 for_window [title="alsamixer"] floating enable border pixel 1
