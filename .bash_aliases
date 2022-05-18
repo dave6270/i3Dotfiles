@@ -31,6 +31,11 @@ alias polyconf="vim ~/.config/polybar/config"			# Opens the polybar config for e
 # Alias for flatpak version of okular
 alias okular="flatpak run org.kde.okular"
 
+# Aliases for redshift (Blue light filter program)
+alias red50="redshift -P -O 5000"
+alias red45="redshift -P -O 4500"
+
+
 # Aliases for appimages
 alias nextcloud="~/Applications/./Nextcloud-3.4.4-x86_64.AppImage"
 alias etcher="~/Applications/./balenaEtcher-1.5.115-x64_1a42e1ec3ceadf7206335c3be74923c9.AppImage"
