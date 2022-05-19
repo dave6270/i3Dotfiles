@@ -34,7 +34,7 @@ alias okular="flatpak run org.kde.okular"
 # Aliases for redshift (Blue light filter program)
 alias red50="redshift -P -O 5000"
 alias red45="redshift -P -O 4500"
-
+alias redx="redshift -x"
 
 # Aliases for appimages
 alias nextcloud="~/Applications/./Nextcloud-3.5.0-x86_64.AppImage"
