@@ -141,4 +141,5 @@ ex ()
 }
 
 export PATH=~/VASSAL-3.6.6:$PATH
+export PATH=$PATH:/home/david/.local/share/gem/ruby/3.0.0/bin
 export PATH=~/Applications:$PATH
