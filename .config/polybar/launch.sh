@@ -11,5 +11,5 @@ killall -q polybar
 # polybar mybar 2>&1 | tee -a /tmp/polymybar.log & disown
 
 # echo "Bars launched..."
-sleep 10
+sleep 20
 polybar
