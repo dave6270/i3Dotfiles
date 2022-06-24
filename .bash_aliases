@@ -41,7 +41,7 @@ alias nextcloud="~/Applications/./Nextcloud-3.5.1-x86_64.AppImage"
 alias etcher="~/Applications/./balenaEtcher-1.5.115-x64_1a42e1ec3ceadf7206335c3be74923c9.AppImage"
 alias freac="~/Applications/./freac-1.1.6-linux-x86_64.AppImage"
 alias freezer="~/Applications/./Freezer-1.1.9_e23a5a084da946daa795293cec08241d.AppImage"
-alias bitwarden="~/Applications/./Bitwarden-1.32.1-x86_64.AppImage"
+alias bitwarden="~/Applications/./Bitwarden-2022.5.1-x86_64.AppImage"
 alias nuclear="~/Applications/./nuclear-2dd909.AppImage"
 
 alias depro="wine /home/david/.wine/drive_c/'Program Files (x86)'/'Disk Explorer Professional 3'/depro.exe"
