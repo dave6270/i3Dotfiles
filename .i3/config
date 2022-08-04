@@ -324,6 +324,7 @@ exec --no-startup-id thunderbird
 exec --no-startup-id dolphin
 exec --exec --no-startup-id 'Applications/./Nextcloud-3.4.4-x86_64.AppImage'
 exec --no-startup-id xdman
+exec --no-startup-id ~/.local/bin/xdm.sh
 
 # Color palette used for the terminal ( ~/.Xresources file )
 # Colors are gathered based on the documentation:
