@@ -43,3 +43,4 @@ alias freezer="~/Applications/./Freezer-1.1.9_e23a5a084da946daa795293cec08241d.A
 alias bitwarden="~/Applications/./Bitwarden-2022.5.1-x86_64.AppImage"
 alias nuclear="~/Applications/./nuclear-2dd909.AppImage"
 alias depro="wine /home/david/.wine/drive_c/'Program Files (x86)'/'Disk Explorer Professional 3'/depro.exe"
+alias avidemux="~/Applications/./avidemux_2.8.0.appImage"
