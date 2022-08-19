@@ -9,6 +9,7 @@ export XDG_STATE_HOME="$HOME/.local/state"
 
 # Make dotfiles XDG compliant
 export HISTFILE="${XDG_STATE_HOME}"/bash/history
+export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
 
 [[ $- != *i* ]] && return
 
