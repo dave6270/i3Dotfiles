@@ -8,7 +8,11 @@ set $mod Mod4
 # workspace_layout tabbed <stacking|tabbed>
 
 # Configure border style <normal|1pixel|pixel xx|none|pixel>
-default_border pixel 1
+
+# Temporary fix for borders showing in i3 4.21
+# When updated, uncomment next line and delete the line after
+# default_border pixel 1
+for_window [all] border pixel 0
 default_floating_border normal
 
 # Hide borders
