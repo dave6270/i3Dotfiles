@@ -11,9 +11,9 @@ set $mod Mod4
 
 # Temporary fix for borders showing in i3 4.21
 # When updated, uncomment next line and delete the line after
-# default_border pixel 1
-for_window [all] border pixel 0
-default_floating_border normal
+default_border pixel 1
+# for_window [all] border pixel 0
+# default_floating_border normal
 
 # Hide borders
 hide_edge_borders none
@@ -323,7 +323,7 @@ exec --no-startup-id blueman-applet
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
 exec --no-startup-id kitty
-exec --no-startup-id chromium
+exec --no-startup-id firefox
 exec --no-startup-id thunderbird
 exec --no-startup-id dolphin
 
