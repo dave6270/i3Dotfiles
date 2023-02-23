@@ -210,7 +210,6 @@ bindsym $mod+Shift+F12 move container to workspace $ws12; workspace $ws12
 
 # Open applications on specific workspaces
 assign [class="firefox"] $ws2
-assign [class="Chromium"] $ws2
 assign [class="thunderbird"] $ws3
 assign [class="dolphin"] $ws4
 assign [class="okular"] $ws5
