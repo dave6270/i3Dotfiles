@@ -325,6 +325,8 @@ exec --no-startup-id kitty
 exec --no-startup-id firefox
 exec --no-startup-id thunderbird
 exec --no-startup-id dolphin
+# Load bluelight filter at startuo by default
+exec --no-startup-id redshift -P -O 5000
 
 # Color palette used for the terminal ( ~/.Xresources file )
 # Colors are gathered based on the documentation:
