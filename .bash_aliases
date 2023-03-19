@@ -38,7 +38,7 @@ alias redx="redshift -x"
 
 # Aliases for appimages
 alias etcher="~/Applications/./balenaEtcher-1.5.115-x64_1a42e1ec3ceadf7206335c3be74923c9.AppImage"
-alias freac="~/Applications/./freac-1.1.6-linux-x86_64.AppImage"
+alias freac="~/Applications/./freac-1.1.7-linux-x86_64.AppImage"
 alias freezer="~/Applications/./Freezer-1.1.9_e23a5a084da946daa795293cec08241d.AppImage"
 alias bitwarden="~/Applications/./Bitwarden-2022.5.1-x86_64.AppImage"
 alias nuclear="~/Applications/./nuclear-2dd909.AppImage"
