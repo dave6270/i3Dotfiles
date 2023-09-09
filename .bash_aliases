@@ -28,23 +28,7 @@ alias i3conf="vim ~/.i3/config"							# Opens the i3 config file for editing
 alias xres="vim ~/.Xresources"							# Opens the .Xresources file for editing
 alias polyconf="vim ~/.config/polybar/config"			# Opens the polybar config for editing
 
-# Alias for flatpak version of okular
-alias okular="flatpak run org.kde.okular"
-
 # Aliases for redshift (Blue light filter program)
 alias red50="redshift -P -O 5000"
 alias red45="redshift -P -O 4500"
 alias redx="redshift -x"
-
-# Aliases for appimages
-alias etcher="~/Applications/./balenaEtcher-1.5.115-x64_1a42e1ec3ceadf7206335c3be74923c9.AppImage"
-alias freac="~/Applications/./freac-1.1.7-linux-x86_64.AppImage"
-alias freezer="~/Applications/./Freezer-1.1.9_e23a5a084da946daa795293cec08241d.AppImage"
-alias bitwarden="~/Applications/./Bitwarden-2022.5.1-x86_64.AppImage"
-alias nuclear="~/Applications/./nuclear-2dd909.AppImage"
-alias depro="wine /home/david/.wine/drive_c/'Program Files (x86)'/'Disk Explorer Professional 3'/depro.exe"
-alias avidemux="~/Applications/./avidemux_2.8.0.appImage"
-alias artimage="~/Applications/./ART.AppImage"
-
-# Alias to start xampp
-alias xampp='(cd /opt/lampp && sudo ./manager-linux-x64.run)'
