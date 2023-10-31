@@ -32,3 +32,6 @@ alias polyconf="vim ~/.config/polybar/config"			# Opens the polybar config for e
 alias red50="redshift -P -O 5000"
 alias red45="redshift -P -O 4500"
 alias redx="redshift -x"
+
+# Alias for FreeTube AppImage
+alias freetube="(cd ~/.local/bin && ./FreeTube_0.19.1_amd64.AppImage)"
