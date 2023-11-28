@@ -14,3 +14,6 @@ vim.opt.syntax = "on"
 
 -- Copy indent from current line when starting a new line
 vim.opt.autoindent = true
+
+-- Highlight the screen line of the cursor with CursorLine
+vim.opt.cursorline = true
