@@ -26,3 +26,6 @@ vim.opt.fileencoding = "utf-8"
 
 -- Show line and column postion of cursor
 vim.opt.ruler = true
+
+-- Allow use of mouse in all modes
+vim.opt.mouse = "a" 
