@@ -17,3 +17,9 @@ vim.opt.autoindent = true
 
 -- Highlight the screen line of the cursor with CursorLine
 vim.opt.cursorline = true
+
+-- Set character encoding to UTF-8
+vim.opt.encoding = "utf-8"
+
+-- Set character encoding for file buffer
+vim.opt.fileencoding = "utf-8"
