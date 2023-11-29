@@ -23,3 +23,6 @@ vim.opt.encoding = "utf-8"
 
 -- Set character encoding for file buffer
 vim.opt.fileencoding = "utf-8"
+
+-- Show line and column postion of cursor
+vim.opt.ruler = true
