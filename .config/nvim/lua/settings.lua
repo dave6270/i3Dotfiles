@@ -29,3 +29,6 @@ vim.opt.ruler = true
 
 -- Allow use of mouse in all modes
 vim.opt.mouse = "a" 
+
+-- Make window title equal to file name and location
+vim.opt.title = true
