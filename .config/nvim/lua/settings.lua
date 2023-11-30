@@ -32,3 +32,6 @@ vim.opt.mouse = "a"
 
 -- Make window title equal to file name and location
 vim.opt.title = true
+
+-- When 'wildmenu' is on, command-line completion operates in an enhanced mode
+vim.opt.wildmenu = true
