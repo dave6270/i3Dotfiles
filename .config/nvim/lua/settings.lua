@@ -35,3 +35,6 @@ vim.opt.title = true
 
 -- When 'wildmenu' is on, command-line completion operates in an enhanced mode
 vim.opt.wildmenu = true
+
+-- When creating new bracket, quickly show matching one
+vim.opt.showmatch = true
