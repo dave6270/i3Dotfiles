@@ -33,5 +33,8 @@ alias red50="redshift -P -O 5000"
 alias red45="redshift -P -O 4500"
 alias redx="redshift -x"
 
+# Converts all webp format images files to jpg's
+alias dewebp="magick mogrify -format jpg *.webp"
+
 # Alias for FreeTube AppImage
 alias freetube="(cd ~/.local/bin && ./FreeTube_0.19.1_amd64.AppImage)"
