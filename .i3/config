@@ -67,7 +67,7 @@ bindsym $mod+F2 exec firefox
 # bindsym $mod+F3 exec pcmanfm
 bindsym $mod+F3 exec ranger
 bindsym $mod+F4 exec thunderbird
-bindsym $mod+Shift+F3 exec dolphin
+bindsym $mod+Shift+F3 exec Thunar
 bindsym $mod+F5 exec terminal -e 'mocp'
 bindsym $mod+t exec --no-startup-id pkill picom
 bindsym $mod+Ctrl+t exec --no-startup-id picom -b
@@ -211,7 +211,7 @@ bindsym $mod+Shift+F12 move container to workspace $ws12; workspace $ws12
 # Open applications on specific workspaces
 assign [class="firefox"] $ws2
 assign [class="thunderbird"] $ws3
-assign [class="dolphin"] $ws4
+assign [class="Thunar"] $ws4
 assign [class="okular"] $ws5
 assign [class="vlc"] $ws6
 assign [class="smplayer"] $sw6
@@ -325,7 +325,7 @@ exec_always --no-startup-id fix_xcursor
 exec --no-startup-id kitty
 exec --no-startup-id firefox
 exec --no-startup-id thunderbird
-exec --no-startup-id dolphin
+exec --no-startup-id Thunar
 # Load bluelight filter at startuo by default
 exec --no-startup-id redshift -P -O 5000
 
